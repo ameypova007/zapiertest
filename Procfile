@@ -1,1 +1,1 @@
-web: gunicorn contactsapi.wsgi
+web: gunicorn kaleyra_test.wsgi
