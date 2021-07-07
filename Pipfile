@@ -14,7 +14,7 @@ drf-yasg = "*"
 gunicorn = "*"
 django-heroku = "*"
 django-cors-headers = "*"
-MySQLdb
+MySQLdb = "*"
 
 [requires]
 python_version = "3.7"
